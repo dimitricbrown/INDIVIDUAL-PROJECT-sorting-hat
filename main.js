@@ -5,25 +5,25 @@ const legendary = [
     id: 1,
     name: 'Nova',
     house: 'Haus of BALMAIN',
-    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/4/4c/Torie_Balmain.jpg/revision/latest?cb=20200624182828"
+    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/2/26/House_of_Balmain.jpg/"
   },
   {
     id: 2,
     name: 'Mother Gia',
     house: 'Haus of TISCI',
-    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/b/bb/S2_Tisci_Opening.gif/revision/latest?cb=20220811101342"
+    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/b/bb/S2_Tisci_Opening.gif/"
   },
   {
     id: 3,
     name: 'Titus',
     house: 'Haus of BALENCIAGA',
-    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/a/a7/S2_Balenciaga_Opening.gif/revision/latest?cb=20220811094732"
+    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/a/a7/S2_Balenciaga_Opening.gif/"
   },
   {
     id: 4,
     name: 'Luxe',
     house: 'Haus of REVLON',
-    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/0/01/S3_Revlon_Opening.gif/revision/latest?cb=20220718051221"
+    imageUrl: "https://static.wikia.nocookie.net/legendaryhbo/images/0/01/S3_Revlon_Opening.gif/"
   }
 ]
 
