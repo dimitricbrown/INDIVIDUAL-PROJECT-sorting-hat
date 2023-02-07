@@ -102,7 +102,7 @@ const chopBtn = (event) => {
 //Function to make the new haus child form appear
 const werkForm = () => {
   const werkString = 
-  `<form>
+  `<form id="werkForm">
   <div class="form-floating mb-3">
     <input
       type="text"
@@ -150,6 +150,9 @@ const newHausChild = (event) => {
 
   legendary.push(newChild);
   legendaryApp(legendary);
+
+  //Reset the form for another input
+  document.querySelector('#werkForm').reset()
 }
 
 //Filtering the buttons
